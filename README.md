@@ -1,5 +1,5 @@
 # K41A-CNTT
-[img](http://i.imgur.com/bFZjxhU.jpg)
+![K41A-CNTT](http://i.imgur.com/bFZjxhU.jpg)
 ## Lập trình
 ### Khóa học
 [Khóa học lập trình C++ cơ bản cho người mới](https://drive.google.com/open?id=0B7ko2dE1jBIZNzRnNTFIaW5oTWc)
